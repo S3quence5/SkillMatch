@@ -9,5 +9,10 @@
 - Skill Gap Analysis
 - Career Recommendations
 
+## Technologies Used
+- Java
+- Artificial Intelligence
+- PDF and DOCX Processing 
+
 ## Purpose
 SkillMatch aims to help users find suitable job opportunities based on their qualifications and identify skills they can improve for their preferred careers.
